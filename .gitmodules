@@ -1,0 +1,6 @@
+[submodule "creditcard-customer-segmentation"]
+	path = creditcard-customer-segmentation
+	url = git@github.com:NikkiSatmaka/creditcard-customer-segmentation.git
+[submodule "fake-news-identifier"]
+	path = fake-news-identifier
+	url = git@github.com:NikkiSatmaka/fake-news-identifier.git
